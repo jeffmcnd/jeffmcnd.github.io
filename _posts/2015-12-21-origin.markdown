@@ -1,0 +1,82 @@
+---
+layout:     post
+title:      "Jeffaccino"
+subtitle:   "The Origin Story"
+date:       2015-12-21 18:00:00
+author:     "Jeffrey McNally-Dawes"
+header-img: "img/trees-unfocused.jpg"
+---
+What is a Jeffaccino?
+---
+
+Some of you may be wondering "What is a Jeffaccino, and why would you buy that
+domain name?" Well, you have every right to question that and I'm sure you've
+already come up with some hilarious fan fiction writings that you might even
+think about turning into a novella. Firstly, if that's the case I'd love to
+read said novella, please send it to me at <jeffaccino@gmail.com>. Yeah, I got
+the email address too. Secondly, there is a reason I've procured said domain
+name and this post will hopefully reveal and explain its origin.
+
+Before deciding to travel I started working at a company called
+[Siaras](http://siaras.com){:target="_blank"}. This is a start up company with
+an office in Burnaby. If you enjoy or have any experience with cloud computing,
+networking, or the Python programming language at all I would recommend
+applying to this company. This company is full of intelligent and qualified
+people who also happen to be fun to work with goofballs. Beginning in September
+of 2014, I started as a junior software developer with the company. Now, as a
+developer you might assume that I drink a lot of coffee. This assumption is,
+however, completely incorrect. When I drink caffeinated beverages, I tend to go
+for tea, and ever now and then I'll go through a phase of drinking ridiculous
+amounts of the stuff, but, I save coffee for special occasions.
+
+I'll take this time to talk about how I "use" coffee as opposed to just "drink"
+coffee. For the most part, I do not drink large amounts of caffeinated beverages
+during the day so I like to think that my caffeine tolerance is quite low. When
+I have a cup of black tea, I'll feel it in my body, my alertness will rise, my
+hands might have almost the feeling of a quiver in them, my productivity will
+change depending on whether or not I was feeling tired beforehand. These are
+mostly good effects of caffeine for me. For some reason, even if the coffee
+doesn't contain as much caffeine as the tea, when I drink coffee I get super
+powers. My productivity goes up regardless, my hands tremor, my eyes widen, I
+get. Shit. Done. But I recognize that if I do this all the time my tolerance
+will most likely increase and in order to maintain the same level of effect I
+would need to drink more and more coffee, a habit in which I do not wish to
+indulge.  For this reason I am not known to drink coffee.
+
+With that in mind, my coworkers at Siaras noticed this fairly quickly and upon
+the arrival of our new coffee behemoth a new drink was born. This machine is
+a giant of the coffee making world standing taller that 6'0" that makes noises
+that interrupt your train of thought if you're standing too close. It is a
+touch screen-controlled, automated, force to be reckoned with. Behold!
+
+![The Behemoth](/img/coffee-machine.jpg)
+
+During our orientation of the system by the man who had performed the machine's
+installation, we were invited to try it out. The room was quite and everybody's
+eyes were darting around the room. I decided to break the ice and, instead of
+using the machine for its intended purpose, decided to have myself a hot
+chocolate instead of a coffee. Some people laughed, others didn't, but I felt
+good about my choice.
+
+Perhaps a few weeks later some of the employees, being software developers,
+decided to hack the coffee machine. They got their way into the maintenance
+screen and even ended up guessing the administration password. With this, we
+could hook the machine up to our wifi, alter displayed menu text, change
+cleaning schedules, the works! It was at this time one of the employees decided
+that the non-coffee drink category could use a new name. As I was the first
+person to have a non-coffee drink from the machine, Jeffacino was born. The
+machine's main screen now sports two categories to choose from at the start of
+your hot beverage journey: Coffee or Jeffacino.
+
+![Red pill or blue?](/img/jeffaccino.jpg)
+
+I've since created a drink that is also known as Jeffaccino that I have nearly
+every day at 3:00 PM that a small group of us attend that we call Coffee Time.
+This drink is one peppermint patty broken up into pieces followed by hot
+hot chocolate, a stir to dissolve the patty, and a splash of milk. Best enjoyed
+with friends.
+
+And there you have it, the reason I have such an awesome name for my blog. Let
+me know if you have any questions and I'll be happy to answer them.
+
+<jeffaccino@gmail.com>
