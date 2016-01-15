@@ -2,7 +2,7 @@
 layout:     post
 title:      "Everything is New"
 subtitle:   "Culture Shock isn't the Right Word, However..."
-date:       2016-01-05 22:44:00
+date:       2016-01-09 23:00:00
 author:     "Jeffrey McNally-Dawes"
 header-img: "img/tiles.jpg"
 ---
