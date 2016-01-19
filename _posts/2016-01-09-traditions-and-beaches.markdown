@@ -56,7 +56,7 @@ don't have any pictures but I think you can just take my word for it that is
 was awe-inspiring.
 
 When I returned to Alex and Raul's apartment, I was met with three new faces.
-They're names are Ricki, Alex's brother and Claudio and Chico, Alex's cousins.
+They're names are Ricki, Alex's brother and Claudia and Chico, Alex's cousins.
 Or at least that was my understanding. At first it was a bit awkward, 
 linguistically, but they all speak better English than I do Spanish, though I
 asked them to speak Spanish anyway. They only speak English when they don't
