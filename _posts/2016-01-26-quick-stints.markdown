@@ -140,9 +140,8 @@ reverberations and echoes, pretty neat. After that we were driven back to the
 hotel where we bid farewell to the girls. Thanks so much for everything Marcela
 and Anna!
 
-Photo with Anna and Marcela inbound. Just waiting on the Facebook post, Marcela
-.
-![Group photo with Marcela and Anna](/img/marcela-and-anna.jpg)
+Here's the lovely group photo!
+![Group photo with Marcela and Anna](/img/marcela-y-anna.jpg)
 
 Tomorrow we are going to try out some *memelitas* and then catch our bus for
 the huge Mexico City where we're going to meet up with Gonzalo again and,
