@@ -2,7 +2,7 @@
 layout:     post
 title:      "Sin Internet, Sin Problemas"
 subtitle:   "The Darkest White People You Will Meet"
-date:       2016-02-11 11:30:00
+date:       2016-02-13 9:00:00
 author:     "Jeffrey McNally-Dawes"
 header-img: "img/sweater.jpg"
 ---
