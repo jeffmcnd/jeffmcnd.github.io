@@ -2,7 +2,7 @@
 layout:     post
 title:      "Sayulita"
 subtitle:   "Just Two More Nights"
-date:       2016-02-18 19:25:00
+date:       2016-02-26 09:25:00
 author:     "Jeffrey McNally-Dawes"
 header-img: "img/umbrella.jpg"
 ---
