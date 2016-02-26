@@ -67,7 +67,7 @@ Tate offered and succeeded in paying for the entire ride back to Puerto
 Vallarta so Mel and I arrived back at our hostel safe and sound for nothing.
 Score.
 
-OK, Saylita for More Two Days - Feb 20
+OK, Saylita for Two More Days - Feb 20
 ---
 On this morning, Mel and I lazily got our shit together, and headed for
 Sayulita. We stopped by in Walmart to get a tent, a nice 250 peso tent to be
