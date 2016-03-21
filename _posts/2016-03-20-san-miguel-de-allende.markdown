@@ -172,6 +172,8 @@ location via WhatsApp so she could find me for our day at *Teotihuacan*, ate
 my oats, and waited in the street for her to pick me up. And so began our day
 together.
 
+This is what I woke up to. He was fully asleep.
+
 <center><img src='/img/sleep-position.jpg'></center>
 
 I got along with Carla well. We didn't stop talking during the entire trip
