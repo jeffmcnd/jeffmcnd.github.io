@@ -91,7 +91,7 @@ Ida on the rock.
 Shaun on the rock.
 ![Shaun on the rock](/img/monkey-shaun.jpg)
 
-Shaun asking for my camera on the rock.
+Sascha asking for my camera on the rock.
 ![Sascha on the rock](/img/monkey-sascha.jpg)
 
 The pose I ended up with when Sascha told me to do something interesting. I'm
