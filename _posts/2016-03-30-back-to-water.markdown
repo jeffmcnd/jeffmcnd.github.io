@@ -2,7 +2,7 @@
 layout:     post
 title:      "Puebla, Oaxaca, and Puerto Escondido"
 subtitle:   "Ripping Through Towns"
-date:       2016-03-27 09:30:00
+date:       2016-03-30 15:30:00
 author:     "Jeffrey McNally-Dawes"
 header-img: "img/atop-cholula.jpg"
 ---
