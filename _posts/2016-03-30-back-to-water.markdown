@@ -110,7 +110,7 @@ Here are some photos:
 
 ![Hierve el Agua](/img/hierve-el-agua-03.jpg)
 
-New Beach, Same Story, a Summary - Mar 27
+New Beach, Same Story, a Summary - Mar 27 - Mar 31
 ---
 The night bus went pretty well but I didn't sleep much. I got to the hostel
 after a short walk from the bus station. I spent a few hours checking out the
