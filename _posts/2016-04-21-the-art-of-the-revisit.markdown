@@ -4,7 +4,7 @@ title:      "The Art of the Revist"
 subtitle:   "Meeting Up With Old New Friends"
 date:       2016-04-21 11:40:00
 author:     "Jeffrey McNally-Dawes"
-header-img: "img/.jpg"
+header-img: "img/cozumel-art.jpg"
 ---
 Last Day on the Island - Apr 17
 ---
