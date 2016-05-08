@@ -11,7 +11,7 @@ How Not To Find Things - Apr 21
 First thing was first this morning. I wanted more HP to read even though I'm
 only a bit more than half way through the first book. I took a short walk up
 to the first bookstore that I came upon through my Google search and began
-the hunt. I found the book in a matter of about five minutes but realized two
+the hunt. I found the book in a matter of about five minutes but realized three
 things. One, their version of the book was quite large and might be a bit
 unruly to deal with while travelling. Two, that doesn't matter because I'll
 soon be in Canada with a car and tons of room. Three, I don't think I'll be
@@ -200,7 +200,7 @@ the tiredness from the climb the other day. I caught the bus to Sayulita and
 showed up at the hotel to the warm welcome of Wes the Lush hostel manager
 among other familiar faces from almost two months ago. Wes and I figured out
 that I would be able to help around the hostel in order to get a free stay
-at the hostel which is great because I need to pinch a few more pennies. The
+which is great because I need to pinch a few more pennies. The
 deal is that I work the bar on Tuesday, complete a list of odd jobs during
 the week, cover for the housekeeper on Sunday and maybe a couple other things
 and I get free breakfast and hostel usage. Sounds good to me.
