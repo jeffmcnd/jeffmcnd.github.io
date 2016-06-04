@@ -19,3 +19,8 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
+
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-78774330-1'
