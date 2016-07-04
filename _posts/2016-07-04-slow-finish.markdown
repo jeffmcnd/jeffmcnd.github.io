@@ -4,7 +4,7 @@ title:      "Easing into The Finish"
 subtitle:   "Long Break in Calgary and BC!"
 date:       2016-07-04 09:30:00
 author:     "Jeffrey McNally-Dawes"
-header-img: "img/golden-bridge-01.jpg"
+header-img: "img/nelson-backyard.jpg"
 ---
 Walking Tours, My Strong Suit - June 23
 ---
